@@ -6,8 +6,6 @@ import calendar
 from tkinter import simpledialog
 import customtkinter as tk
 from tkinter import messagebox, filedialog
-import pandas as pd
-import pdfplumber
 import re
 from datetime import datetime
 
